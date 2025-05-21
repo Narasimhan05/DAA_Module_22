@@ -10,8 +10,8 @@ To find the two strings ‘X’ and ‘Y’, find the length of the longest comm
 4. If characters don't match, reset the current cell to 0, breaking the current substring.
 5. Return the result, which is the length of the longest common substring.
 ## Program:
-Developed by: 
-Register Number:  
+### Developed by: NARASIMHAN S
+### Register Number: 212223230133 
 
 ```
 def LCSubStr(X, Y, m, n):
